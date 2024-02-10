@@ -17,5 +17,4 @@ This is a simple React application that displays pricing information using cards
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository_url>
+   git clone <https://github.com/GandhiRam2202/myreactapp.git)https://github.com/GandhiRam2202/myreactapp.git>
