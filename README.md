@@ -1,8 +1,22 @@
-# React + Vite
+# React Card Pricing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that displays pricing information using cards.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Displays pricing options using cards.
+- Each card contains information about the pricing plan and its features.
+- Users can subscribe to a pricing plan by clicking on the "Subscribe" button.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- CSS: Used for styling the pricing cards and animations.
+
+## Installation
+
+1. Clone the repository:
+
+   
+
+   [Netlify](https://grpfirstreactapp.netlify.app/)
