@@ -4,9 +4,9 @@ import CompA from './assets/component/CompA';
 const App = () => {
 
   const obj = [
-    {subscribe:'FREE',header:'$0/Month',user:'Single User',storage:'50GB Storage',public:'Unlimited Public Project',access:'Community Access',private:'Unlimited PrivateProject',support:'Dedicated Phone Support',subdomain:'Free Subdomain',report:'Monthly State Report'},
-    {subscribe:'PLUS',header:'$9/Month',user:'Single User',storage:'50GB Storage',public:'Unlimited Public Project',access:'Community Access',private:'Unlimited PrivateProject',support:'Dedicated Phone Support',subdomain:'Free Subdomain',report:'Monthly State Report'},
-    {subscribe:'PRO',header:'$49/Month',user:'Single User',storage:'50GB Storage',public:'Unlimited Public Project',access:'Community Access',private:'Unlimited PrivateProject',support:'Dedicated Phone Support',subdomain:'Free Subdomain',report:'Monthly State Report'}
+    {subscribe:'FREE',header:'$0',user:'Single User',storage:'50GB Storage',public:'Unlimited Public Project',access:'Community Access',private:'Unlimited Private Project',support:'Dedicated Phone Support',subdomain:'Free Subdomain',report:'Monthly State Report'},
+    {subscribe:'PLUS',header:'$9',user:'Single User',storage:'50GB Storage',public:'Unlimited Public Project',access:'Community Access',private:'Unlimited Private Project',support:'Dedicated Phone Support',subdomain:'Free Subdomain',report:'Monthly State Report'},
+    {subscribe:'PRO',header:'$49',user:'Single User',storage:'50GB Storage',public:'Unlimited Public Project',access:'Community Access',private:'Unlimited Private Project',support:'Dedicated Phone Support',subdomain:'Free Subdomain',report:'Monthly State Report'},
     ]
   return (
     <div>
@@ -15,4 +15,4 @@ const App = () => {
   );
 };
 
-export default App;<h1>Parthi</h1>
+export default App
