@@ -23,9 +23,9 @@ a:hover {
 }
 
 body {
- 
   width: 100vw !important;
-  height: auto !important;
+  background-color: red;
+  height: 100vh;
 
 }
 
