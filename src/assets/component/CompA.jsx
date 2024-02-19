@@ -3,9 +3,10 @@ import React from 'react';
 
 const PricingCards = ({ obj }) => {
     return (
+      <>
         <div className='row'>
       
-        {obj.map((item, index) => (
+        {obj.map((item, index) => 
         <div className = 'col-sm-12 col-md-6 col-lg-4'>
             
           <div key={index} className='card m-5 rounded-5'>
@@ -29,9 +30,10 @@ const PricingCards = ({ obj }) => {
           </div>
           </div>
         
-        ))}
+        )}
       
       </div>
+      </>
     );
   };
         
