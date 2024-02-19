@@ -7,7 +7,7 @@ const PricingCards = ({ obj }) => {
         <div className='row'>
       
         {obj.map((item, index) => 
-        <div className = 'col-sm-12 col-md-6 col-lg-4'>
+          <div className = 'col-sm-12 col-md-6 col-lg-6 col-xl-4'>
             
           <div key={index} className='card m-5 rounded-5'>
             <div className="card-header bg-primary rounded-top-5">
@@ -28,8 +28,8 @@ const PricingCards = ({ obj }) => {
             <button>BUTTON</button>
           </div>
           </div>
-          </div>
         
+        </div>
         )}
       
       </div>
